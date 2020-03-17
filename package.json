@@ -1,0 +1,20 @@
+{
+  "name": "recaptchanode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.15.4",
+    "express-ejs-layouts": "^2.5.0",
+    "express-recaptcha": "^5.0.1",
+    "node-fetch": "^2.6.0"
+  }
+}
