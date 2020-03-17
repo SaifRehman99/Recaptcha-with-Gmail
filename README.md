@@ -1,9 +1,7 @@
-# reCAPTCHA v2 Node.js 
+# reCAPTCHAv2 With Gmail > Node.js 
 
-A Node.js client-server implementation of Google's reCAPTCHA v2
+A Node.js client-server implementation of Google's reCAPTCHA v2 with gmail account to send emails
 
-### Version
-1.0.0
 
 ## Usage
 
@@ -13,11 +11,11 @@ A Node.js client-server implementation of Google's reCAPTCHA v2
 Install the dependencies
 
 ```sh
-$ npm install
+$ npm i
 ```
 
 ### Run
 To serve in the browser
 ```sh
-$ npm start
+$ npm run dev
 ```
